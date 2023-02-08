@@ -14,248 +14,248 @@
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "TimeInterval",
       "description": "The time interval of this data",
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfId",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductId",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductName",
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductCategory",
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductOnShelfName",
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductSellingRank",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductSalesLastDay",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductSalesLastMonth",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductSalesLast3Months",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductPrice",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductCost",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductSalesOffPercents",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductMarketingCost",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductProfitPerItem",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductRevenueLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductRevenueLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductRevenueLast3Months",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductProfitLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductProfitLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductProfitLast3Months",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ProductImageURL",
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfRank",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfCustomerQuantityLastDay",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfCustomerQuantityLastMonth",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfCustomerQuantityLast3Months",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfProductNames",
       "schema": "string"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfItemQuantity",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfSalesLastDay",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfSalesLastMonth",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfSalesLast3Months",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ConversionRateLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ConversionRateLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ConversionRateLast3Months",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfRevenueLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfRevenueLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfRevenueLast3Months",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfProfitLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfProfitLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "ShelfProfitLast3Months",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreSalesLastDay",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreSalesLastMonth",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreSalesLast3Months",
       "schema": "integer"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreRevenueLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreRevenueLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreRevenueLast3Months",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreProfitLastDay",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreProfitLastMonth",
       "schema": "float"
     },
     {
-      "@type": "Telemetry",
+      "@type": "Property",
       "name": "StoreProfitLast3Months",
       "schema": "float"
     }
